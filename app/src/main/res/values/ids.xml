@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dynamicTextView" type="id" />
+    <item name="staticTextView" type="id" />
+    <item name="featuresTextView" type="id" />
+    <item name="tvAppName" type="id" />
+    <item name="tvAppFeatures" type="id" />
+    <item name="isSystemAppTextView" type="id" />
+    <item name="apkSpinner" type="id" />
+    <item name="selectButton" type="id" />
+    <item name="scanHistoryListView" type="id" />
+    <item name="responseTextView" type="id" />
+    <item name="clearButton" type="id" />
+    <item name="apkResultsListView" type="id" />
+    <item name="scoreProgressBar" type="id" />
+    <item name="labelTextView" type="id" />
+    <item name="confidenceTextView" type="id" />
+    <item name="odometerTextView" type="id" />
+    <item name="historyListView" type="id" />
+    <item name="scanHistoryRecyclerView" type="id" />
+    <item name="progressView" type="id" />
+    <item name="progressCircleIndicator" type="id" />
+    <item name="progressSemicircle" type="id" />
+    <item name="clearHistoryButton" type="id" />
+    <item name="odometerProgressBar" type="id" />
+</resources>
